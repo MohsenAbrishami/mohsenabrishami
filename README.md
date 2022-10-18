@@ -8,8 +8,12 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-mohsenabrishami.ma@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohsenabrishami.ma@gmail.com)](mailto:mohsenabrishami.ma@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohsen%20Abrishami-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mohsenabrishami/)](https://linkedin.com/in/mohsenabrishami/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/mohsen_abrishami/)](https://t.me/mohsen_abrishami/)
+
+<h3 align="left">Follow me:</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mohsen%20Abrishami-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mohsenabrishami/)](https://linkedin.com/in/mohsenabrishami/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@mohsenabrishami/)](https://medium.com/@mohsenabrishami/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
