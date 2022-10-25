@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohsen Abrishami</h1>
 <h3 align="center">A Full Stack developer</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mohsenabrishami&label=Profile%20views&color=0e75b6&style=flat" alt="mohsenabrishami" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-mohsenabrishami.ma@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohsenabrishami.ma@gmail.com)](mailto:mohsenabrishami.ma@gmail.com)
