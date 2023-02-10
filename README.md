@@ -24,13 +24,13 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="Tailwind" width="40" height="40"/>
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="JavaScript" width="40" height="40"/>
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" title="VueJS" width="40" height="40"/> 
 </a> 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
 </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" title="Laravel" width="40" height="40"/>
@@ -42,7 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/>
 </a> 
 <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/scrum-1.svg" alt="git" title="Scrum" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/scrum-1.svg" alt="scrum" title="Scrum" width="40" height="40"/>
 </a>
 
 </p>
