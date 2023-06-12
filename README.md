@@ -3,15 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-mohsenabrishami.ma@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohsenabrishami.ma@gmail.com)](mailto:mohsenabrishami.ma@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/mohsen_abrishami/)](https://t.me/mohsen_abrishami/)
-
-<h3 align="left">Follow me:</h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Mohsen%20Abrishami-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mohsenabrishami/)](https://linkedin.com/in/mohsenabrishami/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@mohsenabrishami/)](https://medium.com/@mohsenabrishami/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8&link=https://linkedin.com/in/mohsenabrishami/)](https://linkedin.com/in/mohsenabrishami/)
+[![Gmail Badge](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335&link=mailto:mohsenabrishami.ma@gmail.com)](mailto:mohsenabrishami.ma@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram&link=https://t.me/mohsen_abrishami/)](https://t.me/mohsen_abrishami/)
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
